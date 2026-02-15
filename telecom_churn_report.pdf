@@ -2,3 +2,11 @@ The rapid growth of telecom services has generated large-scale behavioral data, 
 Customer churn prediction is a critical task for telecom operators, as retaining existing customers is significantly more cost-effective than acquiring new ones. 
 
 This project investigates the application of machine learning techniques for predicting customer churn using a synthetically generated telecom dataset that simulates realistic usage patterns.
+
+To simulate a realistic telecom environment, a synthetic dataset of 50,000 customers was generated. 
+Customer attributes included contract information, usage behavior, payment patterns, and service interaction metrics. 
+
+Churn probability was modeled using a logistic function incorporating behavioral risk factors such as complaint frequency, payment delay, contract duration, and usage characteristics. 
+This approach ensures that churn is not randomly assigned but structurally dependent on customer behavior.
+
+The churn rate was controlled by adjusting the bias term of the logistic risk function to simulate realistic customer behavior distributions observed in real-world telecom systems.
