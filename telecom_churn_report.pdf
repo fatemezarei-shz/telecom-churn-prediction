@@ -1,0 +1,4 @@
+The rapid growth of telecom services has generated large-scale behavioral data, enabling predictive modeling for customer retention strategies. 
+Customer churn prediction is a critical task for telecom operators, as retaining existing customers is significantly more cost-effective than acquiring new ones. 
+
+This project investigates the application of machine learning techniques for predicting customer churn using a synthetically generated telecom dataset that simulates realistic usage patterns.
